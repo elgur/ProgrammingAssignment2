@@ -1,6 +1,8 @@
 ## The function cacheSolve, takes in a matrix and returns its inverse and caches the result.
 ## This speeds up calculations, if an inverse of a matrix is used multiple times. 
 
+# Code from the example in Peer-graded Assignment: Programming Assignment 2: Lexical Scoping
+# Description was used as a blueprint for this solution.
 
 ## makeCahceMatrix is a function that creates an matrix object.
 # The matrix object is populated with a call to the set function. 
